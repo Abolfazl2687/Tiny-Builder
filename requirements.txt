@@ -1,0 +1,4 @@
+colorama
+pymsgbox
+pywin32
+pycryptodome
