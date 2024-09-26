@@ -11,7 +11,7 @@
 
 > [!NOTE]
 > YOU Should Install Python In YOUR System First . [ Download Python From Here](https://python.org)
-> Dont Run Num 6 On Your System !
+>  & Dont Run Num 6 On Your System !
 
 Windows:
 `python Tiny-Builder.py`
