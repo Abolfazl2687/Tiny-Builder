@@ -10,7 +10,7 @@
 ### How To Use ;
 
 > [!NOTE]
-> YOU Should Install Python In YOUR System First . [ Download Python From Here](https://python.org)
+> Last Version : 7
 >  & Dont Run Num 6 On Your System !
 
 Windows:
