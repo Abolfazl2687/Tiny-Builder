@@ -10,14 +10,8 @@
 ### How To Use ;
 
 > [!NOTE]
-> Last Version : 7
+> Just Run Tiny-Builder-setup.exe and Enjoy !! 
 >  & Dont Run Num 6 On Your System !
-
-Windows:
-`python Tiny-Builder.py`
-
-Linux:
-`python3 Tiny-Builder.py`
 
 ### Features
 
