@@ -10,7 +10,7 @@
 ### How To Use ;
 
 > [!NOTE]
-> Just Run ![Tiny-Builder-setup.exe](https://drive.google.com/file/d/1_9tyggMRTyrzppP5muEBszWNjPb1mIEW/view?usp=sharing) and Enjoy !! 
+> Just Run [Tiny-Builder-setup.exe](https://drive.google.com/file/d/1_9tyggMRTyrzppP5muEBszWNjPb1mIEW/view?usp=sharing) and Enjoy !! 
 >  & Dont Run Num 6 On Your System !
 
 ### Features
