@@ -23,3 +23,7 @@ Creating 'exe' Apps For amd64 / x86 Windows Systems The Apps Are ;
 4. Gathering Files With One Or More Format YOU Want Like .pdf , .txt , .docx & ..... (YOU Can Choose More Than One Format)
 5. File Damager Virus (rename all files in dir you choose to random big numbers without any file format)
 6. No Free Space Virus (Make Biggest File To Get Your Free Space)
+7. Telegram-Desktop Session Stealing
+8. Discord Session Stealing
+9. Steam Session Stealing
+10. EpicGames Session Stealing
