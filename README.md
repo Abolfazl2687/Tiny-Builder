@@ -5,7 +5,7 @@
 ## Malware Creator
 
 > [!WARNING]
-> I am NOT responsible for any demages caused by this software to anyone. I do NOT support any malicious use of this software. This is for educational purposes only.
+> I am NOT responsible for any damages caused by this software to anyone. I do NOT support any malicious use of this software. This is for educational purposes only.
 
 ### How To Use ;
 
