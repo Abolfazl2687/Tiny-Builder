@@ -1,6 +1,6 @@
 # Tiny-Builder v8
 
-![ScreenShot of App](Tiny-Builder.png)
+![ScreenShot of App]
 
 ## Malware Creator
 
