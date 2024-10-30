@@ -1,4 +1,4 @@
-# Tiny-Builder v8.1
+# Tiny-Builder v8.2
 
 ![ScreenShot of App](Tiny-Builder8.1.png)
 
