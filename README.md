@@ -1,6 +1,6 @@
-# Tiny-Builder v8.2
+# Tiny-Builder v8.3
 
-![ScreenShot of App](Tiny-Builder8.1.png)
+![ScreenShot of App](Tiny-Builder8.3.png)
 
 ## Malware Creator
 
@@ -24,7 +24,8 @@ Creating 'exe' Apps For amd64 / x86 Windows Systems The Apps Are ;
 5. File Damager Virus (rename all files in dir you choose to random big numbers without any file format)
 6. No Free Space Virus (Make Biggest File To Get Your Free Space)
 7. System Melter Virus (Damage RAM & CPU)
-8. Telegram-Desktop Session Stealing
-9. Discord Session Stealing
-10. Steam Session Stealing
-11. EpicGames Session Stealing
+8. Error Popups
+9. Telegram-Desktop Session Stealing
+10. Discord Session Stealing
+11. Steam Session Stealing
+12. EpicGames Session Stealing
