@@ -1,6 +1,6 @@
-# Tiny-Builder v8.3
+# Tiny-Builder v8.4
 
-![ScreenShot of App](Tiny-Builder8.3.png)
+![ScreenShot of App v8.3](Tiny-Builder8.3.png)
 
 ## Malware Creator
 
@@ -29,3 +29,4 @@ Creating 'exe' Apps For amd64 / x86 Windows Systems The Apps Are ;
 10. Discord Session Stealing
 11. Steam Session Stealing
 12. EpicGames Session Stealing
+13. Eitaa-Desktop Session Stealing
